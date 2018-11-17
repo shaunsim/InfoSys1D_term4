@@ -1,4 +1,4 @@
-package hlcs;
+package sutd.shaun.a1dinfosys_canteen;
 import java.util.ArrayList;
 
 public class Food {

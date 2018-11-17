@@ -1,4 +1,6 @@
 package sutd.shaun.a1dinfosys_canteen;
+import java.util.ArrayList;
+
 
 public class ShoppingCart {
     ArrayList<Food> currentChoice;
